@@ -1,0 +1,19 @@
+{
+  "name": "@yxiscoder/utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "xu.yang <xu.yang@ximalaya.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
